@@ -15,6 +15,7 @@ AI先锋未来人才大赛｜鹏飞集团校招雇主品牌真实命题
 4. **跨文化合规风险**：年轻化能源科普内容存在合规审核与跨地域传播风险
 
 ## 整体方案与三大模块
+
 ### 1. AI大模型内容生成模块
 - 优化提示词模板，批量生成小红书科普笔记、B站短视频脚本、高校社群校招文案
 - 产出适配年轻群体的氢能低碳能源轻量化科普内容
@@ -36,15 +37,6 @@ AI先锋未来人才大赛｜鹏飞集团校招雇主品牌真实命题
 - Markdown / PPT：项目文档与答辩演示
 - 剪映：后续路演演示视频制作
 
-## 仓库目录结构
-AI-Pengfei-Solo-Campus-Brand/
-├── docs/                  # 开题报告、合规指引、行业调研笔记、参考文献
-├── prompt/                # AI提示词模板、年轻化科普文案脚本
-├── sql/                   # SQL数据分析脚本、分析报告、可视化图表
-├── ppt/                   # 大赛答辩PPT
-├── README.md              # 项目说明文档
-└── LICENSE
-
 # AI-Pengfei-Solo-Campus-Brand
 AI Low-Carbon Energy Popularization Content Generation & Campus Communication Compliance System
 AI Pioneer Future Talent Competition | Pengfei Group Campus Employer Brand Official Challenge
@@ -62,6 +54,7 @@ Founded in 1993, Pengfei Group is a large-scale green low-carbon technology ente
 4. **Cross-Cultural Compliance Risks**: Youth energy popularization content faces potential regulatory and cross-regional compliance risks.
 
 ## Overall Solution & 3 Core Modules
+
 ### 1. LLM AI Content Generation Module
 - Optimized prompt templates for Xiaohongshu posts, Bilibili short video scripts and campus recruitment copy
 - Mass production of easy-to-read hydrogen & low-carbon energy popularization content for Gen Z
@@ -83,12 +76,3 @@ Founded in 1993, Pengfei Group is a large-scale green low-carbon technology ente
 - LLM Prompt Engineering: AI popularization content generation
 - Markdown / PPT: Project documentation & roadshow presentation
 - Jianying: Demo video (for future roadshow)
-
-## Repository Structure
-AI-Pengfei-Solo-Campus-Brand/
-├── docs/                  # Opening report, compliance guide, research notes, references
-├── prompt/                # LLM prompt templates & youth popularization scripts
-├── sql/                   # SQL analysis scripts, reports & visualization chart
-├── ppt/                   # Competition presentation slides
-├── README.md              # Project introduction
-└── LICENSE
